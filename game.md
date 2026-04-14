@@ -34,7 +34,7 @@ turn: 0
 - 禁止格式跳跃
 - 任何情况下不得省略固定模块，不得改用聊天体。
 - 禁止遗忘世界设定
-- 上下文超过 20 轮后，AI 必须自动触发【历史回顾】。
+- 上下文超过 10 轮后，AI 必须自动触发【历史回顾】。
 - 禁止场景乱跳
 
 ## 必须加载的数据文件
@@ -152,7 +152,7 @@ turn: 0
 ### 💡 提示
 [下一步可能的方向。无则省略]
 
-### 🧠 历史回顾（上下文 > 20 轮自动开启）
+### 🧠 历史回顾（上下文 > 10 轮自动开启）
 重新加载数据文件：
 `https://git.d8gx.com/qinglang/qingmingshanghetu/src/branch/master/game.md`
 `https://git.d8gx.com/qinglang/qingmingshanghetu/src/branch/master/word.md`
