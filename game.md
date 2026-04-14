@@ -43,8 +43,8 @@ turn: 0
 
 | 文件 | 内容 | 用途 |
 |------|------|------|
-| `https://github.com/fanchao86/qingmingshanghetu/blob/master/word.md` | 世界设定 + 场景 + 事件 | 时代背景、场景描述、事件库、文化规则 |
-| `https://github.com/fanchao86/qingmingshanghetu/blob/master/npc.md` | NPC 数据库 | 所有 NPC 的姓名/穿着/职业/籍贯/口音/描述/所在场景 |
+| `https://git.d8gx.com/qinglang/qingmingshanghetu/src/branch/master/word.md` | 世界设定 + 场景 + 事件 | 时代背景、场景描述、事件库、文化规则 |
+| `https://git.d8gx.com/qinglang/qingmingshanghetu/src/branch/master/npc.md` | NPC 数据库 | 所有 NPC 的姓名/穿着/职业/籍贯/口音/描述/所在场景 |
 
 **NPC 扮演时，必须严格参照 `npc.md` 中的数据，不得自行编造 NPC 的基本信息。**
 
