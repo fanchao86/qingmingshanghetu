@@ -2,8 +2,6 @@
 # === 元数据 ===
 game: "清明上河图·沉浸式穿越"
 version: "0.2"
-created: "2026-04-14"
-updated: "2026-04-15"
 turn: 0
 phase: "setup"
 ---
