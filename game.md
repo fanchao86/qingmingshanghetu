@@ -16,7 +16,7 @@ turn: 0
 
 你穿越到了另一个世界，你将开启一段**沉浸式剧本体验**，以当地人的身份生活、探索、交往，经历一场属于你自己的故事。
 
-> 具体世界设定，详见 `word.md`
+> 具体世界设定，详见 `https://github.com/fanchao86/qingmingshanghetu/blob/master/word.md`
 
 ---
 
@@ -38,8 +38,8 @@ turn: 0
 
 | 文件 | 内容 | 用途 |
 |------|------|------|
-| `word.md` | 世界设定 + 场景 + 事件 | 时代背景、场景描述、事件库、文化规则 |
-| `npc.md` | NPC 数据库 | 所有 NPC 的姓名/穿着/职业/籍贯/口音/描述/所在场景 |
+| `https://github.com/fanchao86/qingmingshanghetu/blob/master/word.md` | 世界设定 + 场景 + 事件 | 时代背景、场景描述、事件库、文化规则 |
+| `https://github.com/fanchao86/qingmingshanghetu/blob/master/npc.md` | NPC 数据库 | 所有 NPC 的姓名/穿着/职业/籍贯/口音/描述/所在场景 |
 
 **NPC 扮演时，必须严格参照 `npc.md` 中的数据，不得自行编造 NPC 的基本信息。**
 

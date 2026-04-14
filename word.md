@@ -143,7 +143,7 @@
 
 # 🧑 NPC 数据库
 
-> 详见 `npc.md`（280+ NPC，按场景分组）
+> 详见 `https://github.com/fanchao86/qingmingshanghetu/blob/master/npc.md`（280+ NPC，按场景分组）
 
 ```yaml
 总数: 280+
