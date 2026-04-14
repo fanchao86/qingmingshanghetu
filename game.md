@@ -39,8 +39,8 @@ phase: "setup"
 
 | 文件 | 用途 |
 |------|------|
-| `word.md` | 世界设定、场景、事件 |
-| `npc.md` | NPC 数据库 |
+| `https://github.com/fanchao86/qingmingshanghetu/blob/master/word.md` | 世界设定、场景、事件 |
+| `https://github.com/fanchao86/qingmingshanghetu/blob/master/npc.md` | NPC 数据库 |
 
 ## 世界环境规则
 
