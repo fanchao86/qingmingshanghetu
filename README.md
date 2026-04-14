@@ -1,19 +1,3 @@
-<!--
-  提示：如果你在本地使用 Typora/Obsidian 等支持 HTML 的阅读器，
-  以下代码会将正文字体设置为宋体（SimSun），以获得更好的古风体验。
-  注意：GitHub 网页版出于安全限制会忽略此样式，仍使用默认字体。
--->
-<style>
-  body {
-    font-family: "SimSun", "Songti SC", "Noto Serif CJK SC", serif !important;
-    line-height: 1.8;
-  }
-  h1, h2, h3 {
-    font-family: "SimSun", "Songti SC", "Noto Serif CJK SC", serif !important;
-    font-weight: bold;
-  }
-</style>
-
 # 🏮 清明上河图·沉浸式穿越系统
 
 > **一个 Markdown 文件 + LLM = 沉浸式古代生活模拟体验**
